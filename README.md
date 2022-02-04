@@ -1,2 +1,1 @@
-# GUI-SFML
-GUI wrapper for SFML
+# DV1570_SFML
